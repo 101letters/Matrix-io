@@ -1,5 +1,4 @@
 # 规则名称: Airport
-# 规则统计: 9
 
 payload:
   - DOMAIN,fan.com.de
